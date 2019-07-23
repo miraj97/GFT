@@ -11,6 +11,6 @@ import cucumber.api.junit.Cucumber;
 		features="features",
 		glue= {"stepDefinition"})
 
-public class RunLarry {
+public class Runlarry {
 	
 }
